@@ -1,0 +1,15 @@
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated data files
+github_raw_data.json
+github_faiss_index.bin
+github_metadata.pkl
+github_config.json
+
+# macOS
+.DS_Store
+
